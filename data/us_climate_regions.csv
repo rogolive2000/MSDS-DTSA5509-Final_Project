@@ -1,0 +1,52 @@
+state_name,state_code,region_name
+Alaska,AK,Alaska
+Alabama,AL,Southeast
+Arkansas,AR,South
+Arizona,AZ,Southwest
+California,CA,West
+Colorado,CO,Southwest
+Connecticut,CT,Northeast
+District of Columbia,DC,Northeast
+Delaware,DE,Northeast
+Florida,FL,Southeast
+Georgia,GA,Southeast
+Hawaii,HI,Hawaii
+Iowa,IA,Upper Midwest
+Idaho,ID,Northwest
+Illinois,IL,Ohio Valley
+Indiana,IN,Ohio Valley
+Kansas,KS,South
+Kentucky,KY,Ohio Valley
+Louisiana,LA,South
+Massachusetts,MA,Northeast
+Maryland,MD,Northeast
+Maine,ME,Northeast
+Michigan,MI,Upper Midwest
+Minnesota,MN,Upper Midwest
+Missouri,MO,Ohio Valley
+Mississippi,MS,South
+Montana,MT,Northern Rockies and Plains
+North Carolina,NC,Southeast
+North Dakota,ND,Northern Rockies and Plains
+Nebraska,NE,Northern Rockies and Plains
+New Hampshire,NH,Northeast
+New Jersey,NJ,Northeast
+New Mexico,NM,Southwest
+Nevada,NV,West
+New York,NY,Northeast
+Ohio,OH,Ohio Valley
+Oklahoma,OK,South
+Oregon,OR,Northwest
+Pennsylvania,PA,Northeast
+Rhode Island,RI,Northeast
+South Carolina,SC,Southeast
+South Dakota,SD,Northern Rockies and Plains
+Tennessee,TN,Ohio Valley
+Texas,TX,South
+Utah,UT,Southwest
+Virginia,VA,Southeast
+Vermont,VT,Northeast
+Washington,WA,Northwest
+Wisconsin,WI,Upper Midwest
+West Virginia,WV,Ohio Valley
+Wyoming,WY,Northern Rockies and Plains
